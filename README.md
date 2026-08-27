@@ -247,6 +247,15 @@ data-model and caching diagrams, plus extension points.
   slides listing its papers with clickable PDF links.
 - On-disk caching of scraped data so re-runs are fast (see below).
 
+### Output examples
+
+<img width="1503" height="637" alt="image" src="https://github.com/user-attachments/assets/c61f127a-3721-4489-ac19-aa3ed7ed0697" />
+
+<img width="1119" height="609" alt="image" src="https://github.com/user-attachments/assets/e8e086a9-29ca-4ae5-93a7-c4900ea7dce0" />
+
+<img width="1128" height="776" alt="image" src="https://github.com/user-attachments/assets/0a046172-09e0-40ef-8cad-4664844ac07d" />
+
+
 ## Caching
 
 Everything expensive is cached on disk under `~/.cache/conflens`:
