@@ -8,7 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/picaultj/conflens?logo=github&style=flat)](https://github.com/picaultj/conflens/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/picaultj/conflens?logo=github)](https://github.com/picaultj/conflens/commits/main)
 [![Issues](https://img.shields.io/github/issues/picaultj/conflens?logo=github)](https://github.com/picaultj/conflens/issues)
-[![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg)](LICENSE)
+[![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg)](https://github.com/picaultj/conflens/blob/main/LICENSE)
 [![uv](https://img.shields.io/badge/managed%20by-uv-DE5FE9.svg?logo=uv&logoColor=white)](https://docs.astral.sh/uv/)
 [![Built with NiceGUI](https://img.shields.io/badge/UI-NiceGUI-2b6cb0.svg)](https://nicegui.io)
 
@@ -77,7 +77,7 @@ ways:
   plus `OPENAI_BASE_URL` for an OpenAI-compatible endpoint; `LITELLM_API_KEY`).
 - **A `.env` file** in the directory you launch `conflens` from — same keys, one
   `NAME=value` per line. It's loaded automatically from the current working
-  directory (from a clone, copy [`.env.example`](.env.example) as a starting
+  directory (from a clone, copy [`.env.example`](https://github.com/picaultj/conflens/blob/main/.env.example) as a starting
   point). Real environment variables take precedence over `.env`.
 - **The in-app “API key” field** at runtime.
 
