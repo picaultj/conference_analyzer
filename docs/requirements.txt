@@ -1,0 +1,5 @@
+# Documentation toolchain for the Read the Docs build (see ../.readthedocs.yaml).
+sphinx>=8.1
+myst-parser[linkify]>=4.0
+sphinxcontrib-mermaid>=1.0
+furo>=2024.8.6
